@@ -1,0 +1,14 @@
+.main-area {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+form {
+  background-color: #e2e2e2;
+}
+footer {
+  min-height: 10vh;
+  background-color: rgb(35, 5, 56);
+}
